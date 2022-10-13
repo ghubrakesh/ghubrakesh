@@ -24,10 +24,12 @@
 
 <a href="http://www.github.com/ghubrakesh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ghubrakesh&stroke=ef4444&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ef4444&currStreakLabel=facc15&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
 
+<details align="left">
 
-## » My Badges:
+<summary> <b1>𝗦𝗲𝗲 𝗺𝘆 𝗯𝗮𝗱𝗴𝗲𝘀 </b1></summary>
+
 [![@srakesh's Holopin board](https://holopin.io/api/user/board?user=srakesh)](https://holopin.io/@srakesh)
-
+</details>
 
 <p1> » 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲:📲 :
 <br>
