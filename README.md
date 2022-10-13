@@ -1,6 +1,6 @@
 ### 𝚟𝚒𝚜𝚒𝚘𝚗@𝚎𝚊𝚛𝚝𝚑𝟼𝟷𝟼𝟶 ~ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 
-## » 𝙷𝚎𝚕𝚕𝚘 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, 𝙸 𝚊𝚖 [𝚁𝚊𝚔𝚎𝚜𝚑](https://linktr.ee/rakeshsabale)
+## » Hello<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I am [Rakesh](https://linktr.ee/rakeshsabale).
 - A Future Machine Learning Engineer 🙎🏻‍♂️
 - A DevOps Guy :computer:
 - A Hashnode [Blogger](https://imsrakesh.hashnode.dev) 📃: 
