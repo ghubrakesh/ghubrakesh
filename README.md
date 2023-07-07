@@ -1,8 +1,8 @@
-### 𝚟𝚒𝚜𝚒𝚘𝚗@𝚎𝚊𝚛𝚝𝚑𝟼𝟷𝟼𝟶 ~ $ 𝚠𝚑𝚘𝚊𝚖𝚒
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=cascadia+code&weight=900&size=17&pause=1000&color=6FAAF7&vCenter=true&width=435&lines=vision%40apokolips+~+%24+whoami)](https://git.io/typing-svg)
 ## » Hello<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I am [Rakesh](https://ghubrakesh.github.io/).
-- A Future Machine Learning Engineer 🙎🏻‍♂️
+- An open source enthusiast 🌏
 - A DevOps Guy :computer:
+- A Machine Learning enthusiast 🙎🏻‍♂️
 - A Hashnode [Blogger](https://imsrakesh.hashnode.dev) 📃: 
 - A Pythonist 🐍
 - A Cricket♥️er 🏏
