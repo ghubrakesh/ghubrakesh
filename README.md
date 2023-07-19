@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=cascadia+code&weight=900&size=17&pause=1000&color=6FAAF7&vCenter=true&width=435&lines=vision%40apokolips+~+%24+whoami)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=monaco&pause=1000&width=435&lines=vision+%40+apokolipse+%3A~+%24+whoami)](https://git.io/typing-svg)
 ## » Hello<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I am [Rakesh](https://ghubrakesh.github.io/).
 - An open source enthusiast 🌏
 - A DevOps Guy :computer:
