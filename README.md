@@ -14,13 +14,18 @@
 ## » Technologies I use 
 <code><img height="40" width="40" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg"></code>
+<code><img height="40" width="40" src="https://wiki.jenkins-ci.org/JENKINS/attachments/2916393/57409618.png"></code>
+<code><img height="40" width="40" src="https://static.djangoproject.com/img/logos/django-logo-negative.png"></code>
+<code><img height="40" width="40" src="https://fastapi.tiangolo.com/img/icon-white.svg"></code>
+<code><img height="40" width="40" src="https://www.postgresql.org/media/img/about/press/elephant.png"></code>
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/free-mongodb-5-1175140.png?f=avif&w=256"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"></code>
 <code><img height="40" width="40" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png"></code>
 
 
 ### » MY GItHub Stats
-<a href="http://www.github.com/ghubrakesh"><img src="https://github-readme-stats.vercel.app/api?username=ghubrakesh&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ef4444&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ghubrakesh's GitHub stats" /></a>
+<a href="http://www.github.com/ghubrakesh"><img src="https://github-readme-stats.vercel.app/api?username=ghubrakesh&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ef4444&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true%22%20alt=%22ghubrakesh%27s%20GitHub%20stats" /></a>
 
 <a href="http://www.github.com/ghubrakesh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ghubrakesh&stroke=ef4444&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ef4444&currStreakLabel=facc15&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
 
