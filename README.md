@@ -33,16 +33,8 @@
 
 ![](https://leetcard.jacoblin.cool/eleetcoderrakesh?ext=heatmap&radius=5)
 
-<details align="left">
-
-<summary> <b1>𝗦𝗲𝗲 𝗺𝘆 𝗯𝗮𝗱𝗴𝗲𝘀 </b1></summary>
-
-[![@srakesh's Holopin board](https://holopin.io/api/user/board?user=srakesh)](https://holopin.io/@srakesh)
-</details>
-
 <p1> » 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲:📲 :
 <br>
-
 <a target="_blank" href="https://www.linkedin.com/in/inrakesh/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:takemetorakesh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://twitter.com/okaybyetakecare"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
