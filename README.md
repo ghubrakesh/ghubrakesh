@@ -2,8 +2,9 @@
 ## » Hello<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I am [Rakesh](https://ghubrakesh.github.io/).
 - An open source enthusiast 🌏
 - A DevOps Guy :computer:
-- A Machine Learning enthusiast 🙎🏻‍♂️
-- A Hashnode [Blogger](https://imsrakesh.hashnode.dev) 📃: 
+- A Backend Engineer 🙎🏻‍♂️
+- A Machine Learning enthusiast 🧮
+- A Hashnode [Blogger](https://imsrakesh.hashnode.dev) 📃
 - A Pythonist 🐍
 - A Cricket♥️er 🏏
 - A full time Astrophile :rocket: :milky_way:
