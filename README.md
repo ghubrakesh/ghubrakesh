@@ -1,13 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=monaco&pause=1000&width=435&lines=vision+%40+apokolipse+%3A~+%24+whoami)](https://git.io/typing-svg)
-## » Hello<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I am [Rakesh](https://ghubrakesh.github.io/).
+
+<div>
+    <img src="progg.png" alt="Image" align="right" width="350" height="350">
+  </div>
+</div>
+
+## » Hello<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I am <a href="https://ghubrakesh.github.io/">Rakesh</a>.</h2>
 - An open source enthusiast 🌏
 - A DevOps Guy :computer:
 - A Backend Engineer 🙎🏻‍♂️
 - A Machine Learning enthusiast 🧮
-- A Hashnode [Blogger](https://imsrakesh.hashnode.dev) 📃
+- A Hashnode <a href="https://imsrakesh.hashnode.dev">Blogger</a> 📃
 - A Pythonist 🐍
 - A Cricket♥️er 🏏
-- A full time Astrophile :rocket: :milky_way:
+- A full-time Astrophile :rocket: :milky_way:
 
 ## » About me
 - I am currently pursuing my Bachelors in <b>'Artificial Intelligence and Data Science'</b>,  from  <i>'Dr. D Y Patil College Of Engineering, Akurdi'</i>. I love to code, watch movies and explore "tech-stuff".
