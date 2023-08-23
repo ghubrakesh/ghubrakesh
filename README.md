@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=monaco&pause=1000&width=435&lines=vision+%40+apokolipse+%3A~+%24+whoami)](https://git.io/typing-svg)
 
 <div>
-    <img src="progg.png" alt="Image" align="right" width="350" height="350">
+    <img src="prog1.png" alt="Image" align="right" width="300" height="300">
   </div>
 </div>
 
