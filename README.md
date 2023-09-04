@@ -30,15 +30,9 @@
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"></code>
 <code><img height="40" width="40" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png"></code>
 
-
-### » MY GItHub Stats
-<a href="http://www.github.com/ghubrakesh"><img src="https://github-readme-stats.vercel.app/api?username=ghubrakesh&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ef4444&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true%22%20alt=%22ghubrakesh%27s%20GitHub%20stats" /></a>
-
-<a href="http://www.github.com/ghubrakesh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ghubrakesh&stroke=ef4444&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ef4444&currStreakLabel=facc15&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
-
 ### » My [LeetCode](https://leetcode.com/eleetcoderrakesh) Stats
 
-![](https://leetcard.jacoblin.cool/eleetcoderrakesh?ext=heatmap&radius=5)
+![](https://leetcard.jacoblin.cool/eleetcoderrakesh?hide=ranking&border=0&radius=20)
 
 <p1> » 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲:📲 :
 <br>
