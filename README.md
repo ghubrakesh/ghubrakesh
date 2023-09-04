@@ -5,7 +5,7 @@
   </div>
 </div>
 
-## » Hello<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I am <a href="https://ghubrakesh.github.io/">Rakesh</a>.</h2>
+## » Hello<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I am <a href="https://bit.ly/knowrakesh">Rakesh</a>.</h2>
 - An open source enthusiast 🌏
 - A DevOps Guy :computer:
 - A Backend Engineer 🙎🏻‍♂️
