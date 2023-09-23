@@ -5,7 +5,7 @@
   </div>
 </div>
 
-## » Hello<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I am <a href="https://bit.ly/knowrakesh">Rakesh</a>.</h2>
+## » Hello, I am <a href="https://bit.ly/knowrakesh">Rakesh</a>.</h2>
 - An open source enthusiast 🌏
 - A DevOps Guy :computer:
 - A Backend Engineer 🙎🏻‍♂️
@@ -30,7 +30,7 @@
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"></code>
 <code><img height="40" width="40" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png"></code>
 
-### » My [LeetCode](https://leetcode.com/eleetcoderrakesh) Stats
+## » My [LeetCode](https://leetcode.com/eleetcoderrakesh) Stats
 
 ![](https://leetcard.jacoblin.cool/eleetcoderrakesh?hide=ranking&border=0&radius=20)
 
