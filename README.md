@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=monaco&pause=1000&width=435&lines=vision+%40+apokolipse+%3A~+%24+whoami)](https://git.io/typing-svg)
 
 <div>
-    <img src="prog1.png" alt="Image" align="right" height="330">
+    <img src="prog1.png" alt="Image" align="right" height="300">
 </div>
 
 ## » Hello, I am <a href="https://bit.ly/knowrakesh">Rakesh</a>.</h2>
