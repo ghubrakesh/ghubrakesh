@@ -41,3 +41,5 @@
 <a target="_blank" href="https://twitter.com/okaybyetakecare"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <br>
 </p1>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ghubrakesh.ghubrakesh)
