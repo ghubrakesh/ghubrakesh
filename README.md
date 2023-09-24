@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=monaco&pause=1000&width=435&lines=vision+%40+apokolipse+%3A~+%24+whoami)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=monaco&pause=1000&width=435&lines=vision+%40+apokolipse+%3A~+%24+whoami)](https://bit.ly/knowrakesh)
 
 <div>
     <img src="prog1.png" alt="Image" align="right" height="300">
