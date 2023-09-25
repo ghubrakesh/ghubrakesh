@@ -4,7 +4,7 @@
     <img src="prog1.png" alt="Image" align="right" height="300">
 </div>
 
-## » Hello, I am <a href="https://bit.ly/knowrakesh">Rakesh</a>.</h2>
+## » Hello, I am <a href="https://bit.ly/knowrakesh">Rakesh</a>
 - An open source enthusiast 🌏
 - A DevOps Guy :computer:
 - A Backend Engineer 🙎🏻‍♂️
