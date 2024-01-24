@@ -7,7 +7,7 @@
 ## » Hello, I am <a href="https://bit.ly/knowrakesh">Rakesh</a>
 - An open source enthusiast 🌏
 - A DevOps Guy :computer:
-- A Backend Engineer 🙎🏻‍♂️
+- A Backend Engineer (Django & FastAPI)🙎🏻‍♂️
 - A Machine Learning enthusiast 🧮
 - A Hashnode <a href="https://imsrakesh.hashnode.dev">Blogger</a> 📃
 - A Pythonist 🐍
